@@ -1,0 +1,438 @@
+﻿####BBR Music Mod MOOD TRACKS####
+
+BBR_mood01 = {
+	music = "file:/music/bbr_music/14_Riu_Riu_Chiu.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+
+BBR_mood02 = {
+	music = "file:/music/bbr_music/01_O_Admirabile_Commercium.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+
+BBR_mood03 = {
+	music = "file:/music/bbr_music/04_Ave_Maria.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+
+BBR_mood04 = {
+	music = "file:/music/bbr_music/05_Now_Make_We_Joy.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+
+BBR_mood05 = {
+	music = "file:/music/bbr_music/11_Psallite_Unigenito.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+
+BBR_mood06 = {
+	music = "file:/music/bbr_music/11_Sequence_Missus_Gabriel_de_Celis.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+
+BBR_mood07 = {
+	music = "file:/music/bbr_music/12_In_Dulci_Jubilo.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+
+BBR_mood08 = {
+	music = "file:/music/bbr_music/13_E_la_Don_Don.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+
+BBR_mood09 = {
+	music = "file:/music/bbr_music/(Arabic_Strat_Map_1)_Persian_Pyjamas_01.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+
+BBR_mood10 = {
+	music = "file:/music/bbr_music/(Arabic_Strat_Map_1)_Persian_Pyjamas_02.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+
+BBR_mood11 = {
+	music = "file:/music/bbr_music/(Arabic_Strat_Map_2)_Sacred_Oud_01.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+
+BBR_mood12 = {
+	music = "file:/music/bbr_music/(Arabic_Strat_Map_2)_Sacred_Oud_02.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+
+BBR_mood13 = {
+	music = "file:/music/bbr_music/(Arabic_Strat_Map_2)_Sacred_Oud_03.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+
+BBR_mood14 = {
+	music = "file:/music/bbr_music/(Arabic_Strat_Map_2)_Sacred_Oud_04.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood15 = {
+	music = "file:/music/bbr_music/(Euro_Loading_1)_Time_and_Again.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+BBR_mood16 = {
+	music = "file:/music/bbr_music/(Euro_Loading_2)_The_Widow.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+
+BBR_mood17 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_1)_Field_Of_Blood_01.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+
+BBR_mood18 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_1)_Field_Of_Blood_02.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+}
+
+BBR_mood19 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_1)_Field_Of_Blood_03.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood20 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_1)_Field_Of_Blood_04.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood21 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_2)_Grey_Meadow_01.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood22 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_2)_Grey_Meadow_02.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood23 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_3)_Lilly_01.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood24 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_3)_Lilly_02.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood25 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_4)_Peter_The_Piper.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood26 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_5)_Devil's_Harp_01.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood27 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_5)_Devil's_Harp_02.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood28 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_5)_Devil's_Harp_03.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood29 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_5)_Devil's_Harp_04.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood30 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_5)_Devil's_Harp_05.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood31 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_5)_Devil's_Harp_06.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood32 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_5)_Devil's_Harp_07.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood33 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_5)_Devil's_Harp_08.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood34 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_5)_Devil's_Harp_09.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood35 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_5)_Devil's_Harp_10.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood36 = {
+	music = "file:/music/bbr_music/(Euro_Strat_Map_5)_Devil's_Harp_11.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood37 = {
+	music = "file:/music/bbr_music/(Mediterranean_Strat_Map_1)_Olivia_01.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood38 = {
+	music = "file:/music/bbr_music/(Mediterranean_Strat_Map_1)_Olivia_02.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood39 = {
+	music = "file:/music/bbr_music/(Mediterranean_Strat_Map_2)_Vineyard_01.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood40 = {
+	music = "file:/music/bbr_music/(Mediterranean_Strat_Map_2)_Vineyard_02.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood41 = {
+	music = "file:/music/bbr_music/(Mediterranean_Strat_Map_3)_Whispers_In_The_Grove_01.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_mood42 = {
+	music = "file:/music/bbr_music/(Mediterranean_Strat_Map_3)_Whispers_In_The_Grove_02.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+
+#### CK2 music ####
+
+BBR_CK2_01 = {
+	music = "file:/music/bbr_music/andthelordsaid.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_02 = {
+	music = "file:/music/bbr_music/ascalon.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_03 = {
+	music = "file:/music/bbr_music/asimplesongforcommoners.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_04 = {
+	music = "file:/music/bbr_music/atuscannight.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_05 = {
+	music = "file:/music/bbr_music/englandanno1066.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_06 = {
+	music = "file:/music/bbr_music/florence.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_07 = {
+	music = "file:/music/bbr_music/guyderosesquandary.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_08 = {
+	music = "file:/music/bbr_music/intaberna.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_09 = {
+	music = "file:/music/bbr_music/kingdomofjerusalem.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_10 = {
+	music = "file:/music/bbr_music/landoftherus.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_11 = {
+	music = "file:/music/bbr_music/pathtoglory.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_12 = {
+	music = "file:/music/bbr_music/pilgrimage.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_13 = {
+	music = "file:/music/bbr_music/royalmarriage.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_14 = {
+	music = "file:/music/bbr_music/theballadformaria.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_15 = {
+	music = "file:/music/bbr_music/thecoronationofaking.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_16 = {
+	music = "file:/music/bbr_music/thefirstcrusade.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_17 = {
+	music = "file:/music/bbr_music/thefranks.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_18 = {
+	music = "file:/music/bbr_music/thekingscrusade.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_19 = {
+	music = "file:/music/bbr_music/thetraderoute.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
+BBR_CK2_20 = {
+	music = "file:/music/bbr_music/wilderness.ogg"
+	weight = 16
+	mood = yes
+	can_be_interrupted = yes
+
+}
